@@ -1,1 +1,1 @@
-# Queens_University_Deep-Leaf-ClassificationLearning_
+# Queens_University_Deep-Learning-ClassificationLearning_
